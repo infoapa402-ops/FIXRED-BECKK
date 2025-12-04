@@ -16,8 +16,5 @@
       "src": "/(.*)",
       "dest": "/api/send-email.js"
     }
-  ],
-  "env": {
-    "API_KEY": "@api_key"
-  }
+  ]
 }
