@@ -1,0 +1,15 @@
+{
+  "name": "fixred-beckk-api",
+  "version": "1.0.0",
+  "description": "Email API for Bot Fixred Beckk",
+  "main": "api/send-email.js",
+  "scripts": {
+    "test": "node test/test-api.js"
+  },
+  "keywords": ["email", "api", "nodemailer"],
+  "author": "@DBeckkz",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.9.7"
+  }
+}
